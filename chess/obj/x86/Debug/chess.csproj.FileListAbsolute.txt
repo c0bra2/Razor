@@ -1,0 +1,16 @@
+F:\C#\chess\chess\bin\Debug\chess.exe
+F:\C#\chess\chess\bin\Debug\chess.pdb
+F:\C#\chess\chess\obj\x86\Debug\chess.Form1.resources
+F:\C#\chess\chess\obj\x86\Debug\chess.Properties.Resources.resources
+F:\C#\chess\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+F:\C#\chess\chess\obj\x86\Debug\chess.exe
+F:\C#\chess\chess\obj\x86\Debug\chess.pdb
+F:\C#\chess\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+M:\C#\chess\chess\obj\x86\Debug\chess.exe
+M:\C#\chess\chess\obj\x86\Debug\chess.pdb
+M:\C#\chess\chess\bin\Debug\chess.exe
+M:\C#\chess\chess\bin\Debug\chess.pdb
+M:\C#\chess\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+M:\C#\chess\chess\obj\x86\Debug\chess.Form1.resources
+M:\C#\chess\chess\obj\x86\Debug\chess.Properties.Resources.resources
+M:\C#\chess\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
